@@ -1,0 +1,1 @@
+Jeśli chce się mieć kilka wersji Node.js na komputerze i móc szybko się między nimi obracać to poleca się korzystać z narzędzi takich jak np. fnm albo nvm.
